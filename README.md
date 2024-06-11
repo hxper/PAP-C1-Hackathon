@@ -1,8 +1,4 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Cosmo Craft </title>
-</head>
+
 <body>
     <h1>Cosmo Craft 🚀</h1>
     <p>Welcome to Cosmo Craft! This project was developed during the 10xTechClub Hackathon and is designed to control a Mars rover using an ESP-32 CAM module. Additionally, the project includes an APK file that allows users to control the movement of the rover's camera tilt and slide remotely.
