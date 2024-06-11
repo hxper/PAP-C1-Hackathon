@@ -1,96 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmo Craft</title>
+</head>
+<body>
+    <h1>Cosmo Craft 🚀</h1>
+    <p>Welcome to Cosmo Craft! This project was developed during the 10xTechClub Hackathon and is designed to control a Mars rover using an ESP-32 CAM module. Additionally, the project includes an APK file that allows users to control the movement of the rover's camera tilt and slide remotely.</p>
 
-# Project Title
+    <h2>Overview 🌌</h2>
+    <p>Cosmo Craft is a project aimed at exploring the capabilities of remote-controlled rovers for planetary exploration. By utilizing an ESP-32 CAM module, we've created a system that allows users to remotely control a rover's movements and camera functionalities.</p>
 
-A brief description of what this project does and who it's for
+    <h2>Features 🛠️</h2>
+    <ul>
+        <li><strong>Remote Control:</strong> Users can control the movement of the rover using a mobile application.</li>
+        <li><strong>Camera Control:</strong> The APK file enables users to adjust the tilt and slide of the rover's camera, providing a comprehensive view of the surroundings.</li>
+        <li><strong>ESP-32 CAM Integration:</strong> The project is built around the ESP-32 CAM module, ensuring reliable wireless communication and high-quality image transmission.</li>
+    </ul>
 
+    <h2>How to Use 📲</h2>
+    <ol>
+        <li><strong>Setup ESP-32 CAM:</strong> Follow the instructions provided with the ESP-32 CAM module to set it up and connect it to your network.</li>
+        <li><strong>Install APK:</strong> Install the provided APK file on your mobile device to gain control over the rover's camera movements.</li>
+        <li><strong>Connect:</strong> Connect your mobile device to the same network as the ESP-32 CAM module.</li>
+        <li><strong>Launch App:</strong> Launch the APK file on your mobile device and start controlling the rover's camera.</li>
+        <li><strong>Drive:</strong> Use the controls in the mobile application to maneuver the rover across different terrains.</li>
+    </ol>
 
-## Acknowledgements
+    <h2>Dependencies 📦</h2>
+    <ul>
+        <li><strong>ESP-32 Arduino Library:</strong> Required for programming the ESP-32 CAM module.</li>
+        <li><strong>APK File:</strong> Android application for controlling camera movements.</li>
+        <li><strong>WiFi Connection:</strong> Ensure that both the rover and the mobile device are connected to the same WiFi network for seamless communication.</li>
+    </ul>
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+    <h2>Contributors 👥</h2>
+    <ul>
+        <li>John Doe (@johndoe)</li>
+        <li>Jane Smith (@janesmith)</li>
+        <li>Bob Johnson (@bob_johnson)</li>
+    </ul>
 
+    <h2>Support 📧</h2>
+    <p>For any issues or inquiries, please contact <a href="mailto:cosmocraft@example.com">cosmocraft@example.com</a>.</p>
 
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
+    <h2>License 📜</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+</body>
+</html>
