@@ -8,7 +8,7 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 #include <WiFi.h>
-
+//Hxper Rage 
 #define CAMERA_MODEL_AI_THINKER
 
 #define PWDN_GPIO_NUM     32
