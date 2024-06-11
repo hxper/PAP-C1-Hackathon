@@ -32,9 +32,9 @@
 
   <h2>Contributors 👥</h2>
     <ul>
-        <li>John Doe (@johndoe)</li>
-        <li>Jane Smith (@janesmith)</li>
-        <li>Bob Johnson (@bob_johnson)</li>
+        <li>Ashaz Ahmed</li>
+        <li>Swaroop Sonawane</li>
+        <li>Taher Gadawala</li>
     </ul>
 
  <h2>Support 📧</h2>
