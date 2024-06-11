@@ -36,10 +36,5 @@
         <li>Swaroop Sonawane</li>
         <li>Taher Gadawala</li>
     </ul>
-
- <h2>Support 📧</h2>
-    <p>For any issues or inquiries, please contact <a href="mailto:cosmocraft@example.com">cosmocraft@example.com</a>.</p>
-    <h2>License 📜</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
